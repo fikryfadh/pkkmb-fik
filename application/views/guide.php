@@ -20,47 +20,10 @@
 
 </head>
   <body>
+
+    <?php require_once('header.php') ?>
     
-    <div style="padding-bottom: 10px"></div>
     
-     <div class="container">  
-            <div class="row">
-            <div class="col">
-            <div class="logo">
-              <a   href=""><img src="<?php echo base_url() ?>assets/img/imagi.jpg"  width="50px""></a>
-            </div>
-            </div>
-            <div class="logo">
-            <div class="col-auto">
-            <nav class="navbar-expand-lg navbar-dark">    
-              
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"        aria-expanded="false" aria-label="Toggle navigation">
-                     <span class="navbar-toggler-icon"></span>
-                 </button>
-              <div class="collapse navbar-collapse" id="navbarNav">
-                
-                <ul class="navbar-nav navbar-right">
-                    <li class="nav-item active">
-                      <a class="nav-link" href="<?php echo base_url() ?>"">Home <span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="<?php echo base_url() ?>about"">About</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="<?php echo base_url() ?>profile"">Profile</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="<?php echo base_url() ?>guide"">Guide Book</a>
-                    </li>
-                </ul>
-              </div>
-              </nav>
-            </div>
-      </div>
-    </div>  
-  </div>  
-      
-    <br>  
 
    <div class="container">
         <div class="row">
@@ -69,7 +32,7 @@
        <img  class="img-fluid" src="<?php echo base_url() ?>assets/img/ceka.gif" width="1100">
         </div>
       <div class="float">
-      <h1>PKKMB<br>FIK</h1>
+      <h1>GUIDE BOOK<br> PPKMB</h1>
       <p>Halaman ini responsive untuk semua jenis perangkat</p> 
       </div>    
       </div>

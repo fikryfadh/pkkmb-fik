@@ -1,0 +1,104 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: helvetica,calibre;
+}
+
+h1 {
+	font-size: 130px;
+	font-family: helvetica-bold;
+}
+
+.h3 {
+	padding-top: 20px;
+	font-size: 20px;
+	font-family: helvetica;
+	color: #ffffff;
+	text-align: center;
+}
+
+.h4 {
+	font-size: 16px;
+	font-family: helvetica;
+	color: #666666;
+	text-align: center;
+}
+
+.navbar {
+	
+	font-family: helvetica-bold;
+	font-size: 15px;
+	color: white;
+	
+
+}
+
+.navbar li{
+	padding-left: 20px;
+	display: inline;
+	margin-right: ;
+}
+
+.navbar ul{
+	padding-top: 15px;
+}
+
+.logo {
+	padding-top: 10px;
+	font-family: helvetica;
+	font-size: 16px;
+	color: white;
+}
+
+.ratakanan {
+	text-align: right;
+	text-decoration: none;
+}
+
+.tite {
+	margin-top: -150px;
+	margin-left: 50px;
+}
+
+
+
+//ini footer
+
+ul.list-group{
+  display: inline-block;
+  width: 100%;
+}
+ul.list-group li{
+  display: block;
+  float: left;
+  margin-bottom: 20px;
+  margin-right: 120px;
+}
+ul.list-group li a{
+  color: #fff;
+}
+ul.list-group li a:hover{
+  fill: #31C177;
+  color: #31C177;
+  text-decoration: none;
+}
+ul.list-group li a:hover svg path{
+  fill: #31C177;
+  color: #31C177;
+  text-decoration: none;
+}
+ul.list-group li a span{
+  position: relative;
+  top: -8px;
+  left: 15px;
+}
+ul.list-group li a span.be{
+  position: relative;
+  top: -3px;
+  left: 15px;
+}
+
+
+.social p{
+  margin-bottom: 20px !important;
+}
