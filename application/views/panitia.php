@@ -31,57 +31,71 @@
           <div class="float-sm-right">
        <img  class="img-fluid" src="<?php echo base_url() ?>assets/img/ceka.gif" width="1100">
         </div>
-      <div class="float" style="margin-bottom: 200px;">
-      <h1>Panitia PKKMB<br>FIK</h1>
+    </div>
+    </div>
 
-      </div>    
+
+    
+      <div class="row" style="padding: 30px 0px 100px">
+        <div class="col">
+          <h1>PANITIA<br>PKKMB</h1>
+        </div>
+        <div class="col">
+          <p style="margin-top:100px">Strong team performance is part of our professionalism in covering product needs, creating problem-solving design and completing your project.</p> 
+        </div>    
       </div>
     </div>
-    </div>
-          
+
     <div class="container">
-      <div class="row">
-        <div class="col-sm-4">
-          <img class="img-fluid" src="<?php echo base_url() ?>assets/img/fikry.jpg">
-          <h3 class="h3">Fikry Fadhilah Rusydi</h3>
-          <h4 class="h4">New Media Team</h4>
-          
-        </div>
-        <div class="col-sm-4">
-          <img class="img-fluid" src="<?php echo base_url() ?>assets/img/fikry.jpg">
-          <h3 class="h3">CEKA ELGY NOOB</h3>
-        <h4 class="h4">New Media Team</h4>
-          
-        </div>
-        <div class="col-sm-4">
-          <img class="img-fluid" src="<?php echo base_url() ?>assets/img/fikry.jpg">
-          <h3 class="h3">ALGYS ALGYS ALGYS</h3>        
-          <h4 class="h4">New Media Team</h4>
-          
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-sm-4">
-          <img class="img-fluid" src="<?php echo base_url() ?>assets/img/fikry.jpg">
-          <h3 class="h3">Fikry Fadhilah Rusydi</h3>
-          <h4 class="h4">New Media Team</h4>
-          
-        </div>
-        <div class="col-sm-4">
-          <img class="img-fluid" src="<?php echo base_url() ?>assets/img/fikry.jpg">
-          <h3 class="h3">CEKA ELGY NOOB</h3>
-        <h4 class="h4">New Media Team</h4>
-          
-        </div>
-        <div class="col-sm-4">
-          <img class="img-fluid" src="<?php echo base_url() ?>assets/img/fikry.jpg">
-          <h3 class="h3">ALGYS ALGYS ALGYS</h3>        
-          <h4 class="h4">New Media Team</h4>
-          
-        </div>
-      </div>
+    <div class="row">
+    <div class="col-xl-12">
+        <ul class="group">
+          <li>
+            <img  class="img-fluid" src="<?php echo base_url() ?>assets/img/fikry.jpg" width="220">
+            <h3 class="h3">Fikry Fadhilah Rusydi</h3>
+            <h4 class="h4">New Media Team</h4>
+          </li>
+          <li>
+            <img class="img-fluid" src="<?php echo base_url() ?>assets/img/fikry.jpg" width="220">
+            <h3 class="h3">Fikry Fadhilah Rusydi</h3>
+            <h4 class="h4">New Media Team</h4>
+          </li>
+          <li>
+            <img class="img-fluid" src="<?php echo base_url() ?>assets/img/fikry.jpg" width="220">
+            <h3 class="h3">Fikry Fadhilah Rusydi</h3>
+            <h4 class="h4">New Media Team</h4>
+          </li>
+          <li>
+            <img  class="img-fluid" src="<?php echo base_url() ?>assets/img/fikry.jpg" width="220">
+            <h3 class="h3">Fikry Fadhilah Rusydi</h3>
+            <h4 class="h4">New Media Team</h4>
+          </li>
+          <li>
+            <img class="img-fluid" src="<?php echo base_url() ?>assets/img/fikry.jpg" width="220">
+            <h3 class="h3">Fikry Fadhilah Rusydi</h3>
+            <h4 class="h4">New Media Team</h4>
+          </li>
+          <li>
+            <img class="img-fluid" src="<?php echo base_url() ?>assets/img/fikry.jpg" width="220">
+            <h3 class="h3">Fikry Fadhilah Rusydi</h3>
+            <h4 class="h4">New Media Team</h4>
+          </li>
+          <li>
+            <img  class="img-fluid" src="<?php echo base_url() ?>assets/img/fikry.jpg" width="220">
+            <h3 class="h3">Fikry Fadhilah Rusydi</h3>
+            <h4 class="h4">New Media Team</h4>
+          </li>
+          <li>
+            <img class="img-fluid" src="<?php echo base_url() ?>assets/img/fikry.jpg" width="220">
+            <h3 class="h3">Fikry Fadhilah Rusydi</h3>
+            <h4 class="h4">New Media Team</h4>
+          </li>
+        </ul>
     </div>
-
+    </div>
+    </div>
+      
+        
     <div class="container" style="margin-top: 200px;">
 
       <?php require_once('footer.php') ?>

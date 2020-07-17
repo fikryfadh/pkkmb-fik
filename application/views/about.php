@@ -31,17 +31,26 @@
           <div class="float-sm-right">
        <img  class="img-fluid" src="<?php echo base_url() ?>assets/img/ceka.gif" width="1100">
         </div>
-      <div class="float">
-      <h1>TENTANG<br>FIK</h1>
-      <p>Halaman ini responsive untuk semua jenis perangkat</p> 
-      </div>    
-      </div>
     </div>
+    </div>
+
+
+    
+      <div class="row">
+        <div class="col">
+          <h1>TENTANG<br>FIK</h1>
+        </div>
+        <div class="col">
+          <p style="margin-top:100px">Strong team performance is part of our professionalism in covering product needs, creating problem-solving design and completing your project.</p> 
+        </div>    
+      </div>
+
+
     </div>
           
     <div class="container">
       <div class="row">
-        <div class="col-sm-4">
+        
           <h3>Kolom pertama</h3>
           <p>Paragraf pertama</p>
           <p>Paragraf kedua</p>

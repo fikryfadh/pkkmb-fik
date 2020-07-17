@@ -5,12 +5,17 @@ body {
 }
 
 h1 {
-	font-size: 130px;
+	font-size: 96px;
+    padding-top: 50px;
 	font-family: helvetica-bold;
 }
 
+h2 {
+	font-family : helvetica-bold;
+}
+
 .h3 {
-	padding-top: 20px;
+	padding-top: 20px;	
 	font-size: 20px;
 	font-family: helvetica;
 	color: #ffffff;
@@ -60,6 +65,16 @@ h1 {
 	margin-left: 50px;
 }
 
+.group ul{
+	padding: 0px 0px 0px 0px;
+	margin-left: -40px	;
+}
+
+.group li{
+	display: inline-block;
+    list-style: none;
+    padding: 0px 10px 0px 25px;
+}
 
 
 //ini footer

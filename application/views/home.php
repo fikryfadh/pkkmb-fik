@@ -21,46 +21,7 @@
 </head>
   <body>
     
-    <div style="padding-bottom: 10px"></div>
-    
-     <div class="container">  
-            <div class="row">
-            <div class="col">
-            <div class="logo">
-              <a   href=""><img src="<?php echo base_url() ?>assets/img/imagi.jpg"  width="50px""></a>
-            </div>
-            </div>
-            <div class="logo">
-            <div class="col-auto">
-            <nav class="navbar-expand-lg navbar-dark">    
-              
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"        aria-expanded="false" aria-label="Toggle navigation">
-                     <span class="navbar-toggler-icon"></span>
-                 </button>
-              <div class="collapse navbar-collapse" id="navbarNav">
-                
-                <ul class="navbar-nav navbar-right">
-                    <li class="nav-item active">
-                      <a class="nav-link" href="<?php echo base_url() ?>"">Home <span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="<?php echo base_url() ?>about"">About</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="<?php echo base_url() ?>profile"">Profile</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="<?php echo base_url() ?>guide"">Guide Book</a>
-                    </li>
-                </ul>
-              </div>
-              </nav>
-            </div>
-      </div>
-    </div>  
-  </div>  
-      
-    <br>  
+   <?php require_once('header.php') ?>
 
    <div class="container">
         <div class="row">

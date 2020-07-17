@@ -34,9 +34,7 @@
                         <a class="dropdown-item" href="<?php echo base_url() ?>panitia"">Panitia</a>
                       </div>
                     </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="<?php echo base_url() ?>profile"">Profile</a>
-                    </li>
+                 
                     <li class="nav-item">
                       <a class="nav-link" href="<?php echo base_url() ?>guide"">Guide Book</a>
                     </li>
