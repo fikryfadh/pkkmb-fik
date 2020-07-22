@@ -41,7 +41,7 @@
           <h1>PANITIA<br>PKKMB</h1>
         </div>
         <div class="col">
-          <p style="margin-top:100px">Strong team performance is part of our professionalism in covering product needs, creating problem-solving design and completing your project.</p> 
+          <p style="margin-top:100px";>Strong team performance is part of our professionalism in covering product needs, creating problem-solving design and completing your project.</p> 
         </div>    
       </div>
     </div>

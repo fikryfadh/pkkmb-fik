@@ -21,46 +21,24 @@
 </head>
   <body>
     
-   <?php require_once('header.php') ?>
+<?php require_once('header.php') ?>
+   
 
-   <div class="container">
-        <div class="row">
-        <div class="col-lg-auto">
-          <div class="float-sm-right">
-       <img  class="img-fluid" src="<?php echo base_url() ?>assets/img/ceka.gif" width="1100">
-        </div>
-      <div class="float">
-      <h1>PKKMB<br>FIK</h1>
-      <p>Halaman ini responsive untuk semua jenis perangkat</p> 
-      </div>    
-      </div>
+
+  <div class="container-fluid px-0">
+    <img src="<?php echo base_url() ?>assets/img/home2.svg" class="img-fluid w-100">
+  </div>
+    <br>
+
+
+  <div class="container">
+    <div class="col-xl-10 offset-xl-1">
+  
     </div>
-    </div>
+  </div>
           
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-4">
-          <h3>Kolom pertama</h3>
-          <p>Paragraf pertama</p>
-          <p>Paragraf kedua</p>
-        </div>
-        <div class="col-sm-4">
-          <h3>Kolom kedua</h3>
-        <p>Paragraf pertama</p>
-          <p>Paragraf kedua</p>
-        </div>
-        <div class="col-sm-4">
-          <h3>Kolom ketiga</h3>        
-          <p>Paragraf pertama</p>
-          <p>Paragraf kedua</p>
-        </div>
-      </div>
-    </div>
+   
 
-    <div class="container" style="margin-top: 200px;">
-
-      <?php require_once('footer.php') ?>
-    </div>
 
 </body>
 </html> 
